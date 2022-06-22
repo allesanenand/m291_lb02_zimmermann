@@ -1,0 +1,13 @@
+[
+  {"name": "Pizza Margherita", "price": 19.50},
+  {"name": "Pizza Funghi", "price": 21.50},
+  {"name": "Pizza Salami", "price": 21.50},
+  {"name": "Pizza Prosciutto", "price": 22.50 },
+  {"name": "Pizza Bufalina", "price": 20.50},
+  {"name": "Pizza Napoletana", "price": 19.50},
+  {"name": "Pizza Quattro Stagioni", "price": 22.50},
+  {"name": "Pizza Al Tono", "price": 19.50},
+  {"name": "Pizza frutti di mare", "price": 22.50},
+  {"name": "Pizza T-Rex", "price": 26.50}
+
+]
